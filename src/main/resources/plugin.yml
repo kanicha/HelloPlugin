@@ -1,0 +1,4 @@
+name: HelloPlugin
+version: ${project.version}
+main: com.github.kanicha.helloplugin.HelloPlugin
+api-version: 1.17
